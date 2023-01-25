@@ -1,0 +1,7 @@
+NAME=['DMITRY','ALARA','ORDA','TATI','BAHAR','SONYA']
+AGE=[28,26,28,38,46,52]
+total='Total',(sum(AGE))
+LEFT_TO_RIGHT=NAME [::-1]
+EVERY_OTHER=NAME[::2]
+print(LEFT_TO_RIGHT,EVERY_OTHER)
+print(total)
